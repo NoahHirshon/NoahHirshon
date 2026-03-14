@@ -1,17 +1,14 @@
 # Hey, I'm Noah
 
-I build AI-native software — tools where AI isn't bolted on but baked into the architecture from day one.
+I use AI to build software. Not a traditional developer — I work directly with AI tools to design and ship real products.
 
 ## What I'm working on
 
-- **[Pane](https://withpane.com)** — an AI dev partner for macOS. Native SwiftUI app backed by Supabase.
-- **[Thoth](https://github.com/NoahHirshon/thoth)** — a brain-inspired AGI system built with Python and FastAPI.
+A few projects in the AI tooling space. More coming soon.
 
-## Stack
-
-Swift · SwiftUI · Python · TypeScript · Next.js · Supabase · Vercel · FastAPI
+- **[Thoth](https://github.com/NoahHirshon/thoth)** — a brain-inspired reasoning system.
+- **[MoatOS](https://github.com/NoahHirshon/MoatOS)** — a personal intelligence dashboard.
 
 ## Links
 
 - [LinkedIn](https://linkedin.com/in/noah-hirshon)
-- [withpane.com](https://withpane.com)
