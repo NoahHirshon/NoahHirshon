@@ -1,11 +1,15 @@
 # Hey, I'm Noah
 
-I use AI to build software. Not a traditional developer — I work directly with AI tools to design and ship real products.
+  Writing about AI and technology — what it changes, who it affects, and what no one wants to say about it. Also building AI tools.
 
-## What I'm working on
+  ## What I'm working on
 
-Coming soon
+  - Essays on AI's impact on power, economics, and geopolitics →
+  [noahhirshon.com](https://noahhirshon.com)
+  - AI-native software tools
 
-## Links
+  ## Links
 
-- [LinkedIn](https://linkedin.com/in/noah-hirshon)
+  - [Website](https://noahhirshon.com)
+  - [X](https://x.com/NoahHirshon)
+  - [LinkedIn](https://linkedin.com/in/noah-hirshon)
